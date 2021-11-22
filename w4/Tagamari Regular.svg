@@ -24,9 +24,9 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:snap-global="false"
-     inkscape:zoom="0.1767767"
-     inkscape:cx="296.98485"
-     inkscape:cy="831.55757"
+     inkscape:zoom="0.7071068"
+     inkscape:cx="344.36099"
+     inkscape:cy="183.84776"
      inkscape:window-width="1858"
      inkscape:window-height="1057"
      inkscape:window-x="-8"
@@ -2209,5 +2209,16 @@
        style="fill:#000000;stroke-width:0.000197477;stroke-linecap:square;stop-color:#000000"
        id="path28070"
        d="m 512.0097,365.34685 c 0.0523,0.0423 0.1026,0.0871 0.15682,0.12684 0.19746,0.1448 0.36039,0.24349 0.5729,0.37089 0.2848,0.17071 0.57534,0.33123 0.86574,0.49207 0.20606,0.11057 0.40818,0.2291 0.61881,0.331 0,0 0.99743,-2.72307 0.99743,-2.72307 v 0 c -0.2095,-0.10181 -0.41066,-0.21987 -0.61582,-0.32991 -0.28961,-0.16047 -0.57941,-0.32057 -0.86326,-0.49114 -0.2069,-0.12436 -0.37377,-0.22569 -0.56565,-0.36823 -0.0523,-0.0388 -0.10044,-0.083 -0.15065,-0.12451 0,0 -1.01632,2.71606 -1.01632,2.71606 z" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.62015px;line-height:1.25;font-family:Baskervville;-inkscape-font-specification:Baskervville;letter-spacing:0px;word-spacing:0px;fill:#14a2da;stroke-width:0.0905038;fill-opacity:0.96470588"
+       x="1.741335"
+       y="-7.1062541"
+       id="text2386"><tspan
+         sodipodi:role="line"
+         id="tspan2384"
+         style="fill:#14a2da;stroke-width:0.0905038;fill-opacity:0.96470588"
+         x="1.741335"
+         y="-7.1062541">Calligraphy Tool Settings: Width 2.9mm Thinning 0 Fixation 1 Angle 70 Fixation 98 , etc. 0;0;0</tspan></text>
   </g>
 </svg>
